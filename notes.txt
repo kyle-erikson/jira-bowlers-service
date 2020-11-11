@@ -1,0 +1,2 @@
+Story Slippage
+- Hardest part is the fact that we cannot track stories that get moved out of sprint
